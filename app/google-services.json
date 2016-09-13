@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "661499447815",
+    "project_id": "coupletones-1ebc1"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661499447815:android:3a3967e4750b65ac",
+        "android_client_info": {
+          "package_name": "com.example.peter.coupletones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661499447815-3n994tqcuvareobmmgltvnbnqogirj7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peter.coupletones",
+            "certificate_hash": "C8E49071423B4710B2FC0144E4CD83E7A316CE27"
+          }
+        },
+        {
+          "client_id": "661499447815-4f4rskop9qb4u6ehp8mqgeqb1jc9r9nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peter.coupletones",
+            "certificate_hash": "17FD5BD068E08DF1AEEE7C52455BAFD905F37E6F"
+          }
+        },
+        {
+          "client_id": "661499447815-9n4uvgupatp3slr4jr3untrarhm6b5vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peter.coupletones",
+            "certificate_hash": "F7AC515D49EE50DF6B33875D66C70D85E682C70B"
+          }
+        },
+        {
+          "client_id": "661499447815-4rlv9htu7tahrlltvo6gfpb6kuoh5dft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgwJPBCTM1Nc2YxBQJI1NXjQT9keyBkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
